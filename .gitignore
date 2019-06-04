@@ -1,3 +1,5 @@
 
 __Previews/main.SchDocPreview
 *.Zip
+__Previews/EnvControl.SchDocPreview
+*.SchDocPreview
