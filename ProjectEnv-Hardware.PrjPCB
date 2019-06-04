@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PAGWFVSP
+DocumentUniqueId=IMPYESDC
 
 [Document3]
 DocumentPath=Others.SchDoc
@@ -89,6 +89,23 @@ GenerateClassCluster=0
 DocumentUniqueId=JWYDEKAM
 
 [Document4]
+DocumentPath=Sheet1.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UWEHQHFF
+
+[Document5]
 DocumentPath=EnvControl.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -103,7 +120,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VAFIGGQC
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
