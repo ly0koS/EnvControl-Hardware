@@ -1,0 +1,52 @@
+Change Component DesignItemId : Designator=C? Old DesignItemId=C New DesignItemId=
+Change Component Comment : Designator=C? Old Comment=104 New Comment=10
+Change Component Comment : Designator=C? Old Comment=104 New Comment=10
+Change Component Designator: OldDesignator=C? NewDesignator=C 40
+Change Component Designator: OldDesignator=C? NewDesignator=C41
+Change Component Designator: OldDesignator=C? NewDesignator=C 42
+Change Component Designator: OldDesignator=C? NewDesignator=C 43
+Change Component Designator: OldDesignator=C? NewDesignator=C44
+Change Component Designator: OldDesignator=C? NewDesignator=C45
+Change Component Designator: OldDesignator=C? NewDesignator=C46
+Change Component Designator: OldDesignator=C? NewDesignator=C47
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=Y? NewDesignator=Y2
+Change Component Designator: OldDesignator=Y? NewDesignator=Y3
+Change Component Library : Designator=C41 Old Library=Explorer STM32F407·â×°¿â.IntLib New Library=Miscellaneous Devices.IntLib
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC 40_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC 42_2
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR2_1
+Added Pin To Net: NetName=NetC41_2 Pin=C41-2
+Added Pin To Net: NetName=NetC41_2 Pin=R23-1
+Added Pin To Net: NetName=NetC41_2 Pin=U?-24
+Added Pin To Net: NetName=NetC41_2 Pin=Y2-2
+Added Net: Name=NetC41_2
+Added Pin To Net: NetName=NetC 43_1 Pin=C 43-1
+Added Pin To Net: NetName=NetC 43_1 Pin=U?-8
+Added Pin To Net: NetName=NetC 43_1 Pin=Y3-2
+Added Net: Name=NetC 43_1
+Added Pin To Net: NetName=NetC44_1 Pin=C44-1
+Added Pin To Net: NetName=NetC44_1 Pin=U?-71
+Added Net: Name=NetC44_1
+Added Pin To Net: NetName=NetC45_1 Pin=C45-1
+Added Pin To Net: NetName=NetC45_1 Pin=U?-106
+Added Net: Name=NetC45_1
+Added Pin To Net: NetName=NetC46_2 Pin=C46-2
+Added Pin To Net: NetName=NetC46_2 Pin=C47-2
+Added Pin To Net: NetName=NetC46_2 Pin=R25-1
+Added Pin To Net: NetName=NetC46_2 Pin=U?-33
+Added Net: Name=NetC46_2
+Added Member To Class: ClassName=main Member=Component C41 22
+Added Member To Class: ClassName=main Member=Component C 42 22
+Added Member To Class: ClassName=main Member=Component C 43 10
+Added Member To Class: ClassName=main Member=Component C44 225
+Added Member To Class: ClassName=main Member=Component C45 225
+Added Member To Class: ClassName=main Member=Component C46 10uf
+Added Member To Class: ClassName=main Member=Component C47 104
+Added Member To Class: ClassName=main Member=Component R2 0
+Added Member To Class: ClassName=main Member=Component R25 1M
+Added Member To Class: ClassName=main Member=Component R26 0
+Added Member To Class: ClassName=main Member=Component Y2 8MHz
