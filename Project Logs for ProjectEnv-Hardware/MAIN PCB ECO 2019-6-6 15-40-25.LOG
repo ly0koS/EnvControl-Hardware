@@ -1,0 +1,139 @@
+Change Component Comment : Designator=C40 Old Comment=104 New Comment=10
+Change Component Comment : Designator=C43 Old Comment=104 New Comment=10
+Change Component Designator: OldDesignator=R27 NewDesignator=R2
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Library : Designator=C41 Old Library=Explorer STM32F407·â×°¿â.IntLib New Library=Miscellaneous Devices.IntLib
+Added Component: Designator=C70(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C91(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C92(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C93(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C97(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C98(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C99(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D7(DIODE_SOP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P6(HDR2X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT-23R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q4(SOT-23R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R37(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R70(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R71(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R72(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R73(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=(NRF24L01)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U17(SOP16M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=USB_232(USB/SM0.8-6H5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Y4(R38)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Crystal, Thru-Hole; 2 Leads; Body 3.1 x 8.2 mm (Dia.xH)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "R38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=-1
+Added Pin To Net: NetName=VCC3.3 Pin=-2
+Added Pin To Net: NetName=NRF_CE Pin=-3
+Added Pin To Net: NetName=NRF_CS Pin=-4
+Added Pin To Net: NetName=SPI1_SCK Pin=-5
+Added Pin To Net: NetName=SPI1_MISO Pin=-7
+Added Pin To Net: NetName=VCC3.3 Pin=C70-1
+Added Pin To Net: NetName=GND Pin=C70-2
+Added Pin To Net: NetName=GND Pin=C91-1
+Added Pin To Net: NetName=GND Pin=C92-1
+Added Pin To Net: NetName=GND Pin=C93-2
+Added Pin To Net: NetName=GND Pin=C97-1
+Added Pin To Net: NetName=GND Pin=C98-1
+Added Pin To Net: NetName=GND Pin=C99-1
+Added Pin To Net: NetName=RESET Pin=D7-1
+Added Pin To Net: NetName=PA10 Pin=P6-1
+Added Pin To Net: NetName=PA11 Pin=P6-3
+Added Pin To Net: NetName=VCC3.3 Pin=Q4-3
+Added Pin To Net: NetName=NRF_IRQ Pin=R37-1
+Added Pin To Net: NetName=VCC3.3 Pin=R70-2
+Added Pin To Net: NetName=BOOT0 Pin=R73-1
+Added Pin To Net: NetName=GND Pin=U17-1
+Added Pin To Net: NetName=GND Pin=USB_232-1
+Added Pin To Net: NetName=VUSB Pin=USB_232-5
+Change Net Name : Old Net Name=NetR26_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=PF7 New Net Name=LIGHT_SENSOR
+Change Net Name : Old Net Name=PG9 New Net Name=LIGHT
+Added Pin To Net: NetName=+5 Pin=C91-2
+Added Pin To Net: NetName=+5 Pin=C92-2
+Added Pin To Net: NetName=+5 Pin=C97-2
+Added Pin To Net: NetName=+5 Pin=U17-16
+Added Net: Name=+5
+Added Pin To Net: NetName=CH340 D+ Pin=U17-5
+Added Pin To Net: NetName=CH340 D+ Pin=USB_232-3
+Added Net: Name=CH340 D+
+Added Pin To Net: NetName=CH340 D- Pin=U17-6
+Added Pin To Net: NetName=CH340 D- Pin=USB_232-4
+Added Net: Name=CH340 D-
+Added Pin To Net: NetName=Net_8 Pin=-8
+Added Pin To Net: NetName=Net_8 Pin=R37-2
+Added Net: Name=Net_8
+Added Pin To Net: NetName=NetC93_1 Pin=C93-1
+Added Pin To Net: NetName=NetC93_1 Pin=U17-4
+Added Net: Name=NetC93_1
+Added Pin To Net: NetName=NetC98_2 Pin=C98-2
+Added Pin To Net: NetName=NetC98_2 Pin=U17-8
+Added Pin To Net: NetName=NetC98_2 Pin=Y4-2
+Added Net: Name=NetC98_2
+Added Pin To Net: NetName=NetC99_2 Pin=C99-2
+Added Pin To Net: NetName=NetC99_2 Pin=U17-7
+Added Pin To Net: NetName=NetC99_2 Pin=Y4-1
+Added Net: Name=NetC99_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=Q3-3
+Added Pin To Net: NetName=NetD7_2 Pin=R70-1
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R72-2
+Added Pin To Net: NetName=NetQ3_1 Pin=U17-14
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R71-1
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R73-2
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R72-1
+Added Net: Name=NetQ4_2
+Added Pin To Net: NetName=NetR71_2 Pin=R71-2
+Added Pin To Net: NetName=NetR71_2 Pin=U17-13
+Added Net: Name=NetR71_2
+Added Pin To Net: NetName=RXD Pin=P6-4
+Added Pin To Net: NetName=RXD Pin=U17-3
+Added Net: Name=RXD
+Added Pin To Net: NetName=SPI1_MOSI Pin=-6
+Added Net: Name=SPI1_MOSI
+Added Pin To Net: NetName=TXD Pin=P6-2
+Added Pin To Net: NetName=TXD Pin=U17-2
+Added Net: Name=TXD
+Added Class: Name=USB USART&USB POWER
+Added Member To Class: ClassName=6 AXIS SENSOR Member=Component C70 104
+Added Member To Class: ClassName=6 AXIS SENSOR Member=Component R37 1K
+Added Member To Class: ClassName=6 AXIS SENSOR Member=Component  U6   WIRELESS
+Added Room: Name=USB USART&USB POWER
