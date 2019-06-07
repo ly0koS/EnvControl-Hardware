@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=FSMC_A16 Pin=P5-4
+Removed Pin From Net: NetName=GND Pin=USB_232-1
+Removed Pin From Net: NetName=CH340 D- Pin=USB_232-4
+Removed Pin From Net: NetName=VUSB Pin=USB_232-5
+Removed Member From Class: ClassName=WIRELESS Member=U1
+Change Component Designator: OldDesignator=BOOT? NewDesignator=BOOT
+Change Component Designator: OldDesignator=K? NewDesignator=K1
+Change Component Designator: OldDesignator=LCD? NewDesignator=TFTLCD
+Change Component Designator: OldDesignator=RESET? NewDesignator=RESET
+Added Pin To Net: NetName=FMSC_D3 Pin=P5-4
+Added Pin To Net: NetName=VUSB Pin=USB_232-1
+Added Pin To Net: NetName=CH340 D- Pin=USB_232-2
+Added Pin To Net: NetName=GND Pin=USB_232-5
+Change Net Name : Old Net Name=NetBOOT?_3 New Net Name=NetBOOT_3
+Change Net Name : Old Net Name=NetBOOT?_4 New Net Name=NetBOOT_4
+Added Member To Class: ClassName=6 AXIS SENSOR Member=Component  U6   WIRELESS
+Added Member To Class: ClassName=WIRELESS Member=Component U? NRF24L01
