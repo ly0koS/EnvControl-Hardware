@@ -1,0 +1,95 @@
+Removed Pin From Net: NetName=PA11 Pin=P6-3
+Removed Pin From Net: NetName=VCC3.3 Pin=Q4-3
+Removed Pin From Net: NetName=VCC3.3 Pin=R2-2
+Removed Pin From Net: NetName=NRF_IRQ Pin=R37-1
+Removed Pin From Net: NetName=NRF_CE Pin=U6-3
+Removed Pin From Net: NetName=NRF_CS Pin=U6-4
+Removed Pin From Net: NetName=SPI1_SCK Pin=U6-5
+Removed Pin From Net: NetName=SPI1_MISO Pin=U6-7
+Change Component Footprint: Designator=C70 Old Footprint=0603P New Footprint=HDR1X4
+Change Component Footprint: Designator=R37 Old Footprint=0603P New Footprint=HDR1X4
+Change Component Footprint: Designator=U6 Old Footprint=NRF24L01 New Footprint=0603P
+Change Component Footprint: Designator=U? Old Footprint=NRF24L01 New Footprint=TO-220-5
+Change Component Comment : Designator=R37 Old Comment=1K New Comment=AHT10
+Change Component Comment : Designator=R25 Old Comment=1M New Comment=10R
+Change Component Comment : Designator=C70 Old Comment=104 New Comment=SGP-30
+Change Component Comment : Designator=C92 Old Comment=107 New Comment=10uF
+Change Component Comment : Designator=C97 Old Comment=107 New Comment=10uF
+Change Component Comment : Designator=U? Old Comment=NRF24L01 New Comment=GY-30
+Change Component Comment : Designator=Q4 Old Comment=S8050 New Comment=S8550
+Change Component Comment : Designator=D7 Old Comment=SS14 New Comment=1N4148
+Change Component Comment : Designator=U6 Old Comment=U6   WIRELESS New Comment=1k
+Change Component Designator: OldDesignator=C70 NewDesignator=P1
+Change Component Designator: OldDesignator=R37 NewDesignator=P2
+Change Component Designator: OldDesignator=U6 NewDesignator=R74
+Change Component Designator: OldDesignator=U? NewDesignator=P3
+Change component parameters: Designator = "P1"; Footprint = "HDR1X4"; UniqueID = "\NNKPSTCT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P2"; Footprint = "HDR1X4"; UniqueID = "\FWAOLXEK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C100(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C101(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C102(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R75(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R76(0603P)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC5 Pin=C91-2
+Added Pin To Net: NetName=VCC5 Pin=C92-2
+Added Pin To Net: NetName=VCC5 Pin=C97-2
+Added Pin To Net: NetName=GND Pin=C100-1
+Added Pin To Net: NetName=VCC3.3 Pin=C100-2
+Added Pin To Net: NetName=GND Pin=C101-1
+Added Pin To Net: NetName=VCC5 Pin=C101-2
+Added Pin To Net: NetName=VCC3.3 Pin=C102-1
+Added Pin To Net: NetName=GND Pin=C102-2
+Added Pin To Net: NetName=PC9 Pin=P1-3
+Added Pin To Net: NetName=PA8 Pin=P1-4
+Added Pin To Net: NetName=VCC5 Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=PB6 Pin=P2-3
+Added Pin To Net: NetName=PB7 Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=FSMC_A0 Pin=P3-3
+Added Pin To Net: NetName=FSMC_A1 Pin=P3-4
+Added Pin To Net: NetName=VCC3.3 Pin=P3-5
+Added Pin To Net: NetName=PA9 Pin=P6-3
+Added Pin To Net: NetName=VCC3.3 Pin=Q4-1
+Added Pin To Net: NetName=VCC3.3M Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R75-1
+Added Pin To Net: NetName=VCC5 Pin=R75-2
+Added Pin To Net: NetName=GND Pin=R76-1
+Added Pin To Net: NetName=VCC3.3 Pin=R76-2
+Added Pin To Net: NetName=PF11 Pin=TFTLCD-30
+Added Pin To Net: NetName=VCC5 Pin=U17-16
+Added Pin To Net: NetName=VCC3.3 Pin=VOUT1-2
+Added Pin To Net: NetName=VCC3.3 Pin=VOUT1-4
+Added Pin To Net: NetName=VCC3.3 Pin=VOUT1-6
+Added Pin To Net: NetName=VCC5 Pin=VOUT2-2
+Added Pin To Net: NetName=VCC5 Pin=VOUT2-4
+Added Pin To Net: NetName=VCC5 Pin=VOUT2-6
+Change Net Name : Old Net Name=CH340 D+ New Net Name=CH340_D+
+Change Net Name : Old Net Name=CH340 D- New Net Name=CH340_D-
+Change Net Name : Old Net Name=DAMI_SCL New Net Name=DCMI_SCL
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=R73-2
+Added Net: Name=NetQ4_3
+Change Class Name : Old Net Name=WIRELESS New Net Name=Sensor
+Added Member To Class: ClassName=Sensor Member=Component C100 104
+Added Member To Class: ClassName=Sensor Member=Component C101 104
+Added Member To Class: ClassName=Sensor Member=Component C102 104
+Added Member To Class: ClassName=Sensor Member=Component R75 1k
+Added Member To Class: ClassName=Sensor Member=Component R76 1k
+Added Member To Class: ClassName=6 AXIS SENSOR Member=Component  U6   WIRELESS
+Change Room Name: Old Name=WIRELESS New Name=Sensor
+Change Room Scope: Old Scope=InComponentClass('WIRELESS') New Scope=InComponentClass('Sensor')

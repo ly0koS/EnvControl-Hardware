@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=6 AXIS SENSOR Member=P1
+Removed Member From Class: ClassName=6 AXIS SENSOR Member=P2
+Change Component Footprint: Designator=P3 Old Footprint=TO-220-5 New Footprint=HDR1X5
+Added Member To Class: ClassName=6 AXIS SENSOR Member=Component C70 104
+Added Member To Class: ClassName=6 AXIS SENSOR Member=Component R37 1K
