@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C88 Old Footprint=Cap--220uF(6.3-18.2mm) New Footprint=cap pall¡¾5.08mm¡¿
+Added Member To Class: ClassName=Others Member=Component TFTLCD TFT_LCD
+Added Room: Name=6 AXIS SENSOR
+Added Room: Name=EnvControl
+Added Room: Name=I_O
+Added Room: Name=main
+Added Room: Name=Others
+Added Room: Name=Sensor
+Added Room: Name=Sheet1
+Added Room: Name=USB USART&USB POWER

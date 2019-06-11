@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=NetD4_1 Pin=DC_IN-1
+Removed Pin From Net: NetName=GND Pin=DC_IN-2
+Change Component Footprint: Designator=C46 Old Footprint=0603P New Footprint=0805
+Change Component Footprint: Designator=C73 Old Footprint=0603P New Footprint=0805
+Change Component Footprint: Designator=C76 Old Footprint=0603P New Footprint=0805
+Change Component Footprint: Designator=C89 Old Footprint=0603P New Footprint=0805
+Change Component Footprint: Designator=C61 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=C85 Old Footprint=CC6.56.5 New Footprint=Cap--220uF(6.3-18.2mm)
+Change Component Footprint: Designator=C88 Old Footprint=CC6.56.5 New Footprint=Cap--220uF(6.3-18.2mm)
+Change Component Comment : Designator=USB_232 Old Comment=USB New Comment=USB-B(Mini)
+Added Component: Designator=P?(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC5 Pin=C91-2
+Added Pin To Net: NetName=VCC5 Pin=C92-2
+Added Pin To Net: NetName=VCC5 Pin=C97-2
+Added Pin To Net: NetName=NetD4_1 Pin=P?-1
+Added Pin To Net: NetName=NetD4_1 Pin=P?-2
+Added Pin To Net: NetName=NetP?_3 Pin=P?-3
+Added Pin To Net: NetName=NetP?_3 Pin=P?-4
+Added Pin To Net: NetName=NRF_IRQ Pin=R37-1
+Added Pin To Net: NetName=NetP?_3 Pin=R67-2
+Added Pin To Net: NetName=IIC_SCL Pin=U8-23
+Added Pin To Net: NetName=IIC_SDA Pin=U8-24
+Added Pin To Net: NetName=NetP?_3 Pin=U15-2
+Added Pin To Net: NetName=VCC5 Pin=U17-16
+Change Net Name : Old Net Name=PA8 New Net Name=NetLabel357
+Added Member To Class: ClassName=EnvControl Member=Component P? Header 4
+Added Room: Name=6 AXIS SENSOR
+Added Room: Name=EnvControl
+Added Room: Name=I_O
+Added Room: Name=main
+Added Room: Name=Others
+Added Room: Name=Sensor
+Added Room: Name=Sheet1
+Added Room: Name=USB USART&USB POWER
