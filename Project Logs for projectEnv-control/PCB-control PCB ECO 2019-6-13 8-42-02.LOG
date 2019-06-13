@@ -1,8 +1,0 @@
-Added Component: Designator=H9(Header-2-≈≈’Î)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=VCC13.5 Pin=H9-1
-Added Pin To Net: NetName=VCC13.5 Pin=H9-2
-Change Net Name : Old Net Name=NetC3_1 New Net Name=VCC12
-Change Net Name : Old Net Name=VCC13.5 New Net Name=NetD1_2
-Added Member To Class: ClassName=boost Member=Component H9 Header2
-Added Room: Name=boost

@@ -1,8 +1,0 @@
-Added Pin To Net: NetName=接控制信号1 Pin=H1-3
-Added Net: Name=接控制信号1
-Added Pin To Net: NetName=接控制信号2 Pin=H3-3
-Added Net: Name=接控制信号2
-Added Pin To Net: NetName=接控制信号3 Pin=H5-3
-Added Net: Name=接控制信号3
-Added Room: Name=boost
-Added Room: Name=control1
