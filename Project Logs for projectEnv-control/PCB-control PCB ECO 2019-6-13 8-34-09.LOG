@@ -1,0 +1,159 @@
+Added Component: Designator=C1(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(cap pall【5.08mm】)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(0805C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(0805C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C8(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C10(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C11(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C12(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(SMBJ)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H1(Header-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(Header-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H3(Header-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H4(Header-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H5(Header-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H6(Header-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H7(Header-2-排针)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H8(Header-2-排针)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(Red-可调电阻)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(Red-可调电阻)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(0603P)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+12 Pin=C7-2
+Added Pin To Net: NetName=+12 Pin=C9-2
+Added Pin To Net: NetName=+12 Pin=C10-2
+Added Pin To Net: NetName=+12 Pin=H2-1
+Added Pin To Net: NetName=+12 Pin=H4-1
+Added Pin To Net: NetName=+12 Pin=H6-1
+Added Pin To Net: NetName=+12 Pin=R5-2
+Added Pin To Net: NetName=+12 Pin=R7-2
+Added Pin To Net: NetName=+12 Pin=R9-2
+Added Net: Name=+12
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=H1-2
+Added Pin To Net: NetName=GND Pin=H2-3
+Added Pin To Net: NetName=GND Pin=H3-2
+Added Pin To Net: NetName=GND Pin=H4-3
+Added Pin To Net: NetName=GND Pin=H5-2
+Added Pin To Net: NetName=GND Pin=H6-3
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-1
+Added Pin To Net: NetName=NetC1_1 Pin=P1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C4-1
+Added Pin To Net: NetName=NetC3_1 Pin=H7-1
+Added Pin To Net: NetName=NetC3_1 Pin=H7-2
+Added Pin To Net: NetName=NetC3_1 Pin=P1-3
+Added Pin To Net: NetName=NetC3_1 Pin=R3-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=R3-2
+Added Pin To Net: NetName=NetP2_1 Pin=R4-1
+Added Pin To Net: NetName=NetP2_1 Pin=R4-3
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=VCC5 Pin=C5-1
+Added Pin To Net: NetName=VCC5 Pin=C6-1
+Added Pin To Net: NetName=VCC5 Pin=C8-2
+Added Pin To Net: NetName=VCC5 Pin=C11-2
+Added Pin To Net: NetName=VCC5 Pin=C12-2
+Added Pin To Net: NetName=VCC5 Pin=H1-1
+Added Pin To Net: NetName=VCC5 Pin=H3-1
+Added Pin To Net: NetName=VCC5 Pin=H5-1
+Added Pin To Net: NetName=VCC5 Pin=H8-1
+Added Pin To Net: NetName=VCC5 Pin=H8-2
+Added Pin To Net: NetName=VCC5 Pin=P2-3
+Added Pin To Net: NetName=VCC5 Pin=R6-2
+Added Pin To Net: NetName=VCC5 Pin=R8-2
+Added Pin To Net: NetName=VCC5 Pin=R10-2
+Added Net: Name=VCC5
+Added Pin To Net: NetName=VCC13.5 Pin=D1-2
+Added Pin To Net: NetName=VCC13.5 Pin=R1-1
+Added Pin To Net: NetName=VCC13.5 Pin=R2-2
+Added Pin To Net: NetName=VCC13.5 Pin=R2-3
+Added Net: Name=VCC13.5
+Added Pin To Net: NetName=接控制信号 Pin=H1-3
+Added Pin To Net: NetName=接控制信号 Pin=H3-3
+Added Pin To Net: NetName=接控制信号 Pin=H5-3
+Added Net: Name=接控制信号
+Added Class: Name=boost
+Added Class: Name=control1
+Added Room: Name=boost
+Added Room: Name=control1
