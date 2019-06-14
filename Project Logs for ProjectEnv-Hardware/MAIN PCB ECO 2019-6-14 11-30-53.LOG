@@ -1,0 +1,40 @@
+Added Component: Designator=TFTLCD(DB2*17-3.5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Y4(XTAL_US)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Crystal, Thru-Hole; 2 Leads; Body 3.1 x 8.2 mm (Dia.xH)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "R38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=TFTLCD-22
+Added Pin To Net: NetName=VCC3.3 Pin=TFTLCD-24
+Added Pin To Net: NetName=GND Pin=TFTLCD-26
+Added Pin To Net: NetName=GND Pin=TFTLCD-27
+Added Pin To Net: NetName=VCC5 Pin=TFTLCD-28
+Added Pin To Net: NetName=NetC99_2 Pin=Y4-1
+Added Pin To Net: NetName=NetC98_2 Pin=Y4-2
+Change Net Name : Old Net Name=FSMC_A0 New Net Name=I2C2_SDA
+Change Net Name : Old Net Name=FSMC_A1 New Net Name=I2C2_SCL
+Change Net Name : Old Net Name=FSMC_A2 New Net Name=PF2
+Change Net Name : Old Net Name=FSMC_A3 New Net Name=PF3
+Change Net Name : Old Net Name=FSMC_A4 New Net Name=PF4
+Change Net Name : Old Net Name=FSMC_A5 New Net Name=PF5
+Change Net Name : Old Net Name=FSMC_A7 New Net Name=PF13
+Change Net Name : Old Net Name=FSMC_A8 New Net Name=PF14
+Change Net Name : Old Net Name=FSMC_A9 New Net Name=PF15
+Change Net Name : Old Net Name=NetLabel357 New Net Name=PA8
+Added Member To Class: ClassName=EnvControl Member=Component R69 49.9K
+Added Member To Class: ClassName=Others Member=Component TFTLCD TFT_LCD
+Added Member To Class: ClassName=6 AXIS SENSOR Member=Component  U6   WIRELESS
+Added Member To Class: ClassName=USB USART&USB POWER Member=Component U17 CH340G
+Added Member To Class: ClassName=USB USART&USB POWER Member=Component Y4 12MHz
+Added Room: Name=6 AXIS SENSOR
+Added Room: Name=EnvControl
+Added Room: Name=I_O
+Added Room: Name=main
+Added Room: Name=Others
+Added Room: Name=Sensor
+Added Room: Name=Sheet1
+Added Room: Name=USB USART&USB POWER
