@@ -1,0 +1,4 @@
+Remove Pin=5 From Net=SPI1_SCK
+Remove Pin=7 From Net=SPI1_MISO
+Remove Pin=P4-33 From Net=PG7
+Remove Pin=P4-34 From Net=PG6

@@ -1,0 +1,30 @@
+Added Component: Designator=C38(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C39(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TFTLCD(DB2*17-3.5)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC3.3 Pin=C38-1
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=VCC5 Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=GND Pin=TFTLCD-22
+Added Pin To Net: NetName=VCC3.3 Pin=TFTLCD-24
+Added Pin To Net: NetName=GND Pin=TFTLCD-26
+Added Pin To Net: NetName=GND Pin=TFTLCD-27
+Added Pin To Net: NetName=VCC5 Pin=TFTLCD-28
+Added Member To Class: ClassName=LCD Member=Component C38 104
+Added Member To Class: ClassName=Others Member=Component C38 104
+Added Member To Class: ClassName=LCD Member=Component C39 104
+Added Member To Class: ClassName=Others Member=Component C39 104
+Added Member To Class: ClassName=LCD Member=Component TFTLCD TFT_LCD
+Added Member To Class: ClassName=Others Member=Component TFTLCD TFT_LCD
+Added Room: Name=6 AXIS SENSOR
+Added Room: Name=EnvControl
+Added Room: Name=I_O
+Added Room: Name=LCD
+Added Room: Name=main
+Added Room: Name=Others
+Added Room: Name=Sensor
+Added Room: Name=Sheet1
+Added Room: Name=USB USART&USB POWER
