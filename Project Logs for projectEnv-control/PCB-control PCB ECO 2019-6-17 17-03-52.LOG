@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C1 Old Footprint=0603P New Footprint=普通电容
+Change Component Footprint: Designator=C2 Old Footprint=cap pall【5.08mm】 New Footprint=电解电容(10uF)
+Added Room: Name=boost
+Added Room: Name=control1

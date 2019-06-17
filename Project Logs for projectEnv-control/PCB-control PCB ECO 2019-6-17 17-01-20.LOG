@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=D1-2
+Removed Pin From Net: NetName=NetD1_2 Pin=R2-2
+Removed Pin From Net: NetName=NetD1_2 Pin=R2-3
+Change Component Footprint: Designator=C1 Old Footprint=普通电容 New Footprint=0603P
+Change Component Footprint: Designator=C3 Old Footprint=普通电容 New Footprint=0603P
+Change Component Footprint: Designator=C5 Old Footprint=普通电容 New Footprint=0603P
+Change Component Footprint: Designator=R1 Old Footprint=普通电阻 New Footprint=0603P
+Change Component Footprint: Designator=R3 Old Footprint=普通电阻 New Footprint=0603P
+Change Component Footprint: Designator=C4 Old Footprint=电解电容(10uF) New Footprint=0805C
+Change Component Footprint: Designator=C6 Old Footprint=电解电容(10uF) New Footprint=0805C
+Change Component Comment : Designator=R2 Old Comment=103 New Comment=104
+Added Pin To Net: NetName=NetC1_1 Pin=D1-2
+Added Pin To Net: NetName=NetC1_1 Pin=R2-2
+Added Pin To Net: NetName=NetC1_1 Pin=R2-3
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetH9_1
+Added Room: Name=boost
+Added Room: Name=control1

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C3 Old Footprint=0603P New Footprint=普通电容
+Change Component Footprint: Designator=C4 Old Footprint=0805C New Footprint=电解电容(10uF)
+Added Room: Name=boost
+Added Room: Name=control1

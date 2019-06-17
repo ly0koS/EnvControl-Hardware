@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C6 Old Footprint=0805C New Footprint=µÁΩ‚µÁ»›(10uF)
+Added Component: Designator=D1(SMBJ)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-2
+Added Member To Class: ClassName=boost Member=Component D1 SMBJ5.0A
+Added Room: Name=boost
+Added Room: Name=control1
