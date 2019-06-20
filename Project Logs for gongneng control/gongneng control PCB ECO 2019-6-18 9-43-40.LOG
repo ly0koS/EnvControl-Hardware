@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=+12 Pin=C13-2
+Removed Pin From Net: NetName=NetC15_2 Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=+12 Pin=H7-1
+Removed Pin From Net: NetName=+12 Pin=R11-2
+Added Component: Designator=R17(Red-可调电阻)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R18(普通电阻)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=+12 Pin=R18-2
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=H7-1
+Added Pin To Net: NetName=NetC13_2 Pin=R11-2
+Added Pin To Net: NetName=NetC13_2 Pin=R17-2
+Added Pin To Net: NetName=NetC13_2 Pin=R17-3
+Added Pin To Net: NetName=NetC13_2 Pin=R18-1
+Added Net: Name=NetC13_2
+Added Member To Class: ClassName=control1 Member=Component R17 104
+Added Member To Class: ClassName=control1 Member=Component R18 1K
+Added Room: Name=control1

@@ -1,0 +1,22 @@
+Added Component: Designator=R1(可调电阻)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(可调电阻)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R17(可调电阻)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetH11_1 Pin=R1-1
+Added Pin To Net: NetName=+12 Pin=R1-2
+Added Pin To Net: NetName=+12 Pin=R1-3
+Added Pin To Net: NetName=NetH9_1 Pin=R3-1
+Added Pin To Net: NetName=+12 Pin=R3-2
+Added Pin To Net: NetName=+12 Pin=R3-3
+Added Pin To Net: NetName=+12 Pin=R17-1
+Added Pin To Net: NetName=NetH7_1 Pin=R17-2
+Added Pin To Net: NetName=+12 Pin=R17-3
+Added Member To Class: ClassName=control1 Member=Component R1 104
+Added Member To Class: ClassName=control1 Member=Component R3 104
+Added Member To Class: ClassName=control1 Member=Component R17 103
+Added Room: Name=control1

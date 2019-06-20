@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=接控制信号1 Pin=H8-3
+Removed Pin From Net: NetName=接控制信号2 Pin=H10-3
+Removed Pin From Net: NetName=接控制信号3 Pin=H12-3
+Added Pin To Net: NetName=接控制信号4 Pin=H8-3
+Added Net: Name=接控制信号4
+Added Pin To Net: NetName=接控制信号5 Pin=H10-3
+Added Net: Name=接控制信号5
+Added Pin To Net: NetName=接控制信号6 Pin=H12-3
+Added Net: Name=接控制信号6
+Added Room: Name=control1

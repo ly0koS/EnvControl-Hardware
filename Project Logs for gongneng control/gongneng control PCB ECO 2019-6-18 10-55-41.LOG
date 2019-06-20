@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C17-2
+Change Component Footprint: Designator=C17 Old Footprint=∆’Õ®µÁ»› New Footprint=0805
+Change component parameters: Designator = "C17"; Footprint = "0805"; UniqueID = "\VVVHMIWC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Room: Name=control1

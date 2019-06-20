@@ -1,0 +1,83 @@
+Added Component: Designator=C7(普通电容)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C8(普通电容)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(普通电容)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C10(普通电容)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C11(普通电容)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C12(普通电容)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H1(Header-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(Header-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H3(Header-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H4(Header-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H5(Header-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H6(Header-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(普通电阻)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(普通电阻)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(普通电阻)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(普通电阻)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(普通电阻)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(普通电阻)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+12 Pin=C7-2
+Added Pin To Net: NetName=+12 Pin=C9-2
+Added Pin To Net: NetName=+12 Pin=C10-2
+Added Pin To Net: NetName=+12 Pin=H2-1
+Added Pin To Net: NetName=+12 Pin=H4-1
+Added Pin To Net: NetName=+12 Pin=H6-1
+Added Pin To Net: NetName=+12 Pin=R5-2
+Added Pin To Net: NetName=+12 Pin=R7-2
+Added Pin To Net: NetName=+12 Pin=R9-2
+Added Net: Name=+12
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=H1-2
+Added Pin To Net: NetName=GND Pin=H2-3
+Added Pin To Net: NetName=GND Pin=H3-2
+Added Pin To Net: NetName=GND Pin=H4-3
+Added Pin To Net: NetName=GND Pin=H5-2
+Added Pin To Net: NetName=GND Pin=H6-3
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Net: Name=GND
+Added Pin To Net: NetName=VCC5 Pin=C8-2
+Added Pin To Net: NetName=VCC5 Pin=C11-2
+Added Pin To Net: NetName=VCC5 Pin=C12-2
+Added Pin To Net: NetName=VCC5 Pin=H1-1
+Added Pin To Net: NetName=VCC5 Pin=H3-1
+Added Pin To Net: NetName=VCC5 Pin=H5-1
+Added Pin To Net: NetName=VCC5 Pin=R6-2
+Added Pin To Net: NetName=VCC5 Pin=R8-2
+Added Pin To Net: NetName=VCC5 Pin=R10-2
+Added Net: Name=VCC5
+Added Pin To Net: NetName=接控制信号1 Pin=H1-3
+Added Net: Name=接控制信号1
+Added Pin To Net: NetName=接控制信号2 Pin=H3-3
+Added Net: Name=接控制信号2
+Added Pin To Net: NetName=接控制信号3 Pin=H5-3
+Added Net: Name=接控制信号3
+Added Class: Name=control1
+Added Room: Name=control1

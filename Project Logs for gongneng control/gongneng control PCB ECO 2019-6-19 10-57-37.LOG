@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+12 Pin=R17-1
+Removed Pin From Net: NetName=NetH7_1 Pin=R17-2
+Change Component Comment : Designator=R17 Old Comment=103 New Comment=104
+Added Pin To Net: NetName=NetH7_1 Pin=R17-1
+Added Pin To Net: NetName=+12 Pin=R17-2
+Added Room: Name=control1

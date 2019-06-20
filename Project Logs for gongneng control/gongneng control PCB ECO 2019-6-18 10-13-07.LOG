@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=NetC17_2 Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=NetC17_2 Pin=R1-2
+Removed Pin From Net: NetName=NetC17_2 Pin=R1-3
+Removed Pin From Net: NetName=NetC17_2 Pin=R2-1
+Removed Pin From Net: NetName=VCC5 Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=NetC15_2 Pin=R3-2
+Removed Pin From Net: NetName=NetC15_2 Pin=R3-3
+Removed Pin From Net: NetName=NetC15_2 Pin=R4-1
+Removed Pin From Net: NetName=+12 Pin=R4-2
+Change Component Footprint: Designator=C13 Old Footprint=0805 New Footprint=R(普通电阻 )-9mm
+Change Component Footprint: Designator=C15 Old Footprint=普通电容 New Footprint=0805
+Change Component Comment : Designator=R2 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R4 Old Comment=1K New Comment=10K
+Change component parameters: Designator = "C15"; Footprint = "0805"; UniqueID = "\HXYEQXEV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=NetC17_2 Pin=R1-1
+Added Pin To Net: NetName=VCC5 Pin=R1-2
+Added Pin To Net: NetName=VCC5 Pin=R1-3
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetC17_2 Pin=R2-2
+Added Pin To Net: NetName=NetC15_2 Pin=R3-1
+Added Pin To Net: NetName=+12 Pin=R3-2
+Added Pin To Net: NetName=+12 Pin=R3-3
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetC15_2 Pin=R4-2
+Added Room: Name=control1

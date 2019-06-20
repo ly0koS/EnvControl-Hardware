@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC13_2 Pin=C13-1
+Removed Pin From Net: NetName=NetC13_2 Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=NetC17_2 Pin=C17-1
+Change Component Footprint: Designator=C13 Old Footprint=∆’Õ®µÁ»› New Footprint=0805
+Change component parameters: Designator = "C13"; Footprint = "0805"; UniqueID = "\YSNIQPEH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=+12 Pin=C13-2
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetH7_1
+Added Room: Name=control1

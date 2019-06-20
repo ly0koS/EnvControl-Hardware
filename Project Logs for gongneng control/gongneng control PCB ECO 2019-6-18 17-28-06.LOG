@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=R1 Old Footprint=Red-可调电阻 New Footprint=VR4-可变电阻
+Change Component Footprint: Designator=R3 Old Footprint=Red-可调电阻 New Footprint=VR4-可变电阻
+Change Component Footprint: Designator=R17 Old Footprint=Red-可调电阻 New Footprint=VR4-可变电阻
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetH7_1
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetH9_1
+Change Net Name : Old Net Name=NetC17_2 New Net Name=NetH11_1
+Added Room: Name=control1
